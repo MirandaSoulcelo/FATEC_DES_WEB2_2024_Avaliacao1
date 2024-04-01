@@ -3,9 +3,9 @@
     if($_SERVER["REQUEST_METHOD"]=="POST")
     {
         session_start();
-        if($_POST['username']== 'Portaria' and $_POST['password']== 'FatecAraras')
+        if($_POST['username'] == 'Portaria' and $_POST['password'] == 'FatecAraras')
         {
-            $_SESSION['Loggedin'] = TRUE;
+            $_SESSION['loggedin'] = TRUE;
             $_SESSION['username'] = 'Portaria';
             header("location: Area_User.php");
 
