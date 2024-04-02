@@ -34,7 +34,7 @@
         <a href="cadastroCarro.php" class="btn btn-primary" >Cadastro Carro</a>
     
 
-        <a href="cadastroCarro.php" class="btn btn-primary">Cadastro Moto</a>
+        <a href="cadastroCarro.php" class="btn btn-primary">Cadastroo Moto</a>
 
         <a href="a.php" class="btn btn-info">Consultar carros</a>
 
