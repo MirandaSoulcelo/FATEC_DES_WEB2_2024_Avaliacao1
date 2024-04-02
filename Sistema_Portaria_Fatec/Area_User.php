@@ -57,7 +57,7 @@
             http.send();
             if (http.status == 404) 
             {
-                alert('Você ainda não cadastrou nenhum aluno com este veículo.');
+                alert('Você ainda não registrou nenhum aluno com este veículo.');
                 return false;
             }
             return true;
