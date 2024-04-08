@@ -14,7 +14,6 @@
     <meta charset="UTF-8">
     <title>Welcome</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.css">
-    <script src="https://kit.fontawesome.com/65f22fe718.js" crossorigin="anonymous"></script>
     <style type="text/css">
 
         body
